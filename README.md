@@ -64,5 +64,6 @@ In this section, we dive into the realm of data analytics to gain valuable insig
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 
+For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
-
+<img width="2575" height="1482" alt="image" src="https://github.com/user-attachments/assets/609fc29d-61bb-4c9e-b6d6-0f171ab1e750" />
